@@ -1,0 +1,1 @@
+<li><a href="[field:arcurl /]" target="_blank">[field:title /]</a><span class="date">[field:typename/]</span></li>

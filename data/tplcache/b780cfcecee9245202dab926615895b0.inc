@@ -1,0 +1,1 @@
+<a href="[field:typelink/]" target="_blank">全部</a>

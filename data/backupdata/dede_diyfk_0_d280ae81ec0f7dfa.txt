@@ -1,0 +1,1 @@
+INSERT INTO `dede_diyfk` VALUES('1','0','AB模板网','13333333333','AB模板网：源码、模板、插件下载基地 www.adminbuy.cn');
